@@ -15,3 +15,4 @@ def get_variable_from_file(file, variable)
   end
 end
 greeting = "Hello World"
+put greeting
